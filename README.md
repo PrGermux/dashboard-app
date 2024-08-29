@@ -23,7 +23,7 @@ This application is an essential tool for production managers, data analysts, an
 ## Code Structure
 
 - **`src/main.rs`**: The main entry point of the application, containing the core logic, GUI setup, and event handling.
-- **`res/`**: Directory containing the icon files, including `icon.ico` used for the application and various `.png` icons for the tools in the dashboard.
+- **`res/`**: Directory containing the icon file.
 - **`Cargo.toml`**: The project configuration file, specifying dependencies and metadata.
 
 ### Core Components
