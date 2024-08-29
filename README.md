@@ -42,4 +42,6 @@ This application is an essential tool for production managers, data analysts, an
 
 ## Screenshots
 
-![grafik](https://github.com/user-attachments/assets/22df46f1-d9b4-4744-bccc-3ad51c36d22d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22df46f1-d9b4-4744-bccc-3ad51c36d22d" />
+</p>
