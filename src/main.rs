@@ -106,11 +106,6 @@ fn run_exe(path: &str) {
 
 // Define the buttons with the paths to the executables, their names, and the paths to their icons
 const BUTTONS: [(&str, &str, &str); 7] = [
-    ("P:\\Apps\\Yield Reporter\\Yield Reporter.exe", "Yield Reporter", "P:\\Apps\\Yield Reporter\\_internal\\icon.png"),
-    ("P:\\Apps\\Error Reporter\\Error Reporter.exe", "Error Reporter", "P:\\Apps\\Error Reporter\\_internal\\icon.png"),
-    ("P:\\Apps\\Quality Control\\Quality Control.exe", "Quality Control", "P:\\Apps\\Quality Control\\_internal\\icon.png"),
-    ("P:\\Apps\\Tape Planner\\Tape Planner.exe", "Tape Planner", "P:\\Apps\\Tape Planner\\_internal\\icon.png"),
-    ("P:\\Apps\\LAM1A Reporter\\LAM1A Reporter.exe", "LAM1A Reporter", "P:\\Apps\\LAM1A Reporter\\_internal\\icon.png"),
-    ("P:\\Apps\\Data Plotter\\Data Plotter.exe", "Data Plotter", "P:\\Apps\\Data Plotter\\_internal\\icon.png"),
-    ("P:\\Apps\\Critical Current Fitting Application\\Critical Current Fitting Application.exe", "Critical Current Fitting Application", "P:\\Apps\\Critical Current Fitting Application\\_internal\\icon.png"),
+    ("PATH TO EXE FILE", "NAME", "PATH TO ICON"),
+    ("PATH TO EXE FILE", "NAME", "PATH TO ICON"),
 ];
