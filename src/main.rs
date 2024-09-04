@@ -105,7 +105,7 @@ fn run_exe(path: &str) {
 }
 
 // Define the buttons with the paths to the executables, their names, and the paths to their icons
-const BUTTONS: [(&str, &str, &str); 7] = [
+const BUTTONS: [(&str, &str, &str); 2] = [
     ("PATH TO EXE FILE", "NAME", "PATH TO ICON"),
     ("PATH TO EXE FILE", "NAME", "PATH TO ICON"),
 ];
